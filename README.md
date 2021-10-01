@@ -31,4 +31,5 @@ It's not hard trick, I just encoded every character in numbers. Thanks to 8-bit 
 
 ## Special thanks
 https://chequered.ink/ for the `Teeny Tiny Pixls` font.
+
 This font is lisenced only for personal use.
