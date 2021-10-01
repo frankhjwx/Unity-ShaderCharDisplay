@@ -1,4 +1,5 @@
-// Font (Teeny Tiny Pixls) Reference: https://www.dafont.com/teeny-tiny-pixls.font
+// Font (Teeny Tiny Pixls) Reference: https://chequered.ink/july-round-up/
+// This font is for personal use only!
 
 static const uint _FontChar[128] = 
 {
